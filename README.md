@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Herald Michain</h1>
 <h3 align="center">A passionate WEB3 developer </h3>
-<img align="center"  width="1000"scr="https://cdn.dribbble.com/users/1774872/screenshots/5477893/tachyon-2-dr.gif">
+<img align="right"  alth="coding" width="400" scr="https://cdn.dribbble.com/users/1774872/screenshots/5477893/tachyon-2-dr.gif">
 
 <p align="justify">"🚀 I am an aspiring Web3 Developer, committed to coding my way to a decentralized future. By day, I am a swift JavaScript ninja, and by night, an enthusiastic crypto aficionado. Additionally, I keep a close eye on the financial markets as a swing trader. With a passion for innovation and a touch of humor, I'm ready to shake up the internet in a fun and positive way 😄"
 
