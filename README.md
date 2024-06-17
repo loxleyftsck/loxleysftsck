@@ -3,10 +3,11 @@
 <h1 align="center">Hi 👋, I'm Herald Michain</h1>
 <h3 align="center">A passionate WEB3 developer </h3>
 
-
-<p align="justify">"🚀 I am an aspiring Web3 Developer, committed to coding my way to a decentralized future. By day, I am a swift JavaScript ninja, and by night, an enthusiastic crypto aficionado. Additionally, I keep a close eye on the financial markets as a swing trader. With a passion for innovation and a touch of humor, I'm ready to shake up the internet in a fun and positive way 😄">
-
 <img align="right"  alth="coding" width="400" scr="https://i.pinimg.com/originals/c4/d8/d7/c4d8d7f9e12230e974cb918678b161b4.gif">
+
+<p align="left">"🚀 I am an aspiring Web3 Developer, committed to coding my way to a decentralized future. By day, I am a swift JavaScript ninja, and by night, an enthusiastic crypto aficionado. Additionally, I keep a close eye on the financial markets as a swing trader. With a passion for innovation and a touch of humor, I'm ready to shake up the internet in a fun and positive way 😄">
+
+
 
 
 
